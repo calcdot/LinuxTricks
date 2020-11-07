@@ -20,7 +20,7 @@
   
 7. HTTP inspection in terminal - wuzz
 
-8. Generate shell - shellerator
+8. Generate shell - shellerator https://github.com/ShutdownRepo/shellerator
 
 9. Real world wordlist - https://github.com/FlameOfIgnis/Pwdb-Public
 
