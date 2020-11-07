@@ -13,10 +13,9 @@
   Ctrl + Z to pause the process,then "bg" - to put it to background and make it continue running.
   fg to bring it back forward. (these operations can be managed trough "jobs" also)
   
-5. Lulzbuster - good dir enumeration.
+5. Lulzbuster - good dir enumeration. https://github.com/noptrix/lulzbuster
 
-6. SMB enumeration and more (impacket/hashdump) - CrackMapExec
-  https://github.com/byt3bl33d3r/CrackMapExec/wiki/SMB-Command-Reference
+6. SMB enumeration and more (impacket/hashdump) - CrackMapExec https://github.com/byt3bl33d3r/CrackMapExec/wiki/SMB-Command-Reference
   
 7. HTTP inspection in terminal - wuzz
 
