@@ -1,0 +1,2 @@
+# LinuxTricks
+Usefull linux stuff.
