@@ -33,4 +33,5 @@
 
 14. PayloadsAllTheThings viral shell/payload repo - https://github.com/swisskyrepo/PayloadsAllTheThings
 
+15. Group of cheat sheets for just about anything - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
 
