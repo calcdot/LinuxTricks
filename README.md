@@ -1,6 +1,6 @@
 # LinuxTricks
 
-1. Online cheat sheet for linux sommands -
+1. Online cheat sheet for linux commands -
   curl cht.sh/gpg
   
 2. Quick and easy python webserver -
