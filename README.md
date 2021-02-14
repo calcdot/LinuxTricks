@@ -21,7 +21,7 @@
 
 8. Generate shell - shellerator https://github.com/ShutdownRepo/shellerator
 
-9. Real world wordlist - https://github.com/FlameOfIgnis/Pwdb-Public
+9. Real world wordlist - https://github.com/FlameOfIgnis/Pwdb-Public / https://github.com/danielmiessler/SecLists
 
 10. Living of the land binaries - https://lolbas-project.github.io/#
 
