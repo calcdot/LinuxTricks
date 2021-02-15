@@ -42,3 +42,5 @@
 18. One of best Windows enum scripts - https://github.com/itm4n/PrivescCheck (Sadly now monitored by several AV)
 
 19. There are plenty of enum/exploit scripts out there, i mostly used this - https://github.com/diego-treitos/linux-smart-enumeration
+
+20. Very versitile Yaml scaning framework (TCP, DNS, HTTP, File, etc.) - nuclei https://github.com/projectdiscovery/nuclei 
