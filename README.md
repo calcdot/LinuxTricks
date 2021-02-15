@@ -44,3 +44,4 @@
 19. There are plenty of enum/exploit scripts out there, i mostly used this - https://github.com/diego-treitos/linux-smart-enumeration
 
 20. Very versitile Yaml scaning framework (TCP, DNS, HTTP, File, etc.) - nuclei https://github.com/projectdiscovery/nuclei 
+    There is a range of bugbounty tools like nuclei on - https://github.com/projectdiscovery 
