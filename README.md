@@ -21,7 +21,7 @@
 
 8. Generate shell - shellerator https://github.com/ShutdownRepo/shellerator
 
-9. Real world wordlist - https://github.com/FlameOfIgnis/Pwdb-Public / https://github.com/danielmiessler/SecLists
+9. Real world wordlists - https://github.com/FlameOfIgnis/Pwdb-Public / https://github.com/danielmiessler/SecLists
 
 10. Living of the land binaries - https://lolbas-project.github.io/#
 
@@ -34,4 +34,6 @@
 14. PayloadsAllTheThings viral shell/payload repo - https://github.com/swisskyrepo/PayloadsAllTheThings
 
 15. Group of cheat sheets for just about anything - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+
+16. This shell is the ultimate WinRM shell for hacking/pentesting - https://github.com/Hackplayers/evil-winrm
 
