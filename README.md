@@ -39,3 +39,4 @@
 
 17. Domain Enumeration - BloodHound https://github.com/BloodHoundAD/BloodHound
 
+18. One of best Windows enum scripts - https://github.com/itm4n/PrivescCheck (Sadly now monitored by several AV)
