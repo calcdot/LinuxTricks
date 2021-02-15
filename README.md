@@ -40,3 +40,5 @@
 17. Domain Enumeration - BloodHound https://github.com/BloodHoundAD/BloodHound
 
 18. One of best Windows enum scripts - https://github.com/itm4n/PrivescCheck (Sadly now monitored by several AV)
+
+19. There are plenty of enum/exploit scripts out there, i mostly used this - https://github.com/diego-treitos/linux-smart-enumeration
