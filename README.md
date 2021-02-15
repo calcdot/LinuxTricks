@@ -17,7 +17,7 @@
 
 6. SMB enumeration and more (impacket/hashdump) - CrackMapExec https://github.com/byt3bl33d3r/CrackMapExec/wiki/SMB-Command-Reference
   
-7. HTTP inspection in terminal - wuzz
+7. Interactive cli tool for HTTP inspection. - wuzz https://github.com/asciimoo/wuzz
 
 8. Generate shell - shellerator https://github.com/ShutdownRepo/shellerator
 
