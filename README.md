@@ -45,3 +45,6 @@
 
 20. Very versitile Yaml scaning framework (TCP, DNS, HTTP, File, etc.) - nuclei https://github.com/projectdiscovery/nuclei 
     There is a range of bugbounty tools like nuclei on - https://github.com/projectdiscovery 
+
+
+## (ncdu, )
