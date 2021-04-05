@@ -54,5 +54,5 @@
 
 
 
-## (https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/)
-## ()
+###### (https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/)
+###### ()
