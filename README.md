@@ -51,4 +51,8 @@
 
 22. Deacent collection of red team tools - https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
-## (ncdu, )
+
+
+
+## (https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/)
+## ()
