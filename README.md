@@ -45,6 +45,10 @@
 
 20. Very versitile Yaml scaning framework (TCP, DNS, HTTP, File, etc.) - nuclei https://github.com/projectdiscovery/nuclei 
     There is a range of bugbounty tools like nuclei on - https://github.com/projectdiscovery 
+    
+21. Encyklopedia of WIN executables (Similar but more complete than Lolbas) - https://strontic.github.io/xcyclopedia/
 
+
+22. Deacent collection of red team tools - https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
 ## (ncdu, )
