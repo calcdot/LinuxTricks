@@ -51,7 +51,7 @@
 
 22. Deacent collection of red team tools - https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
-
+23. Open Source RAT's (Nice repo) - https://github.com/alphaSeclab/awesome-rat/blob/master/Readme_en.md#b62c18c1b4fc6d5b52ca826b36cf0819
 
 
 ###### (https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/)
