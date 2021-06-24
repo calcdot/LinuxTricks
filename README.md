@@ -53,6 +53,8 @@
 
 23. Open Source RAT's (Nice repo) - https://github.com/alphaSeclab/awesome-rat/blob/master/Readme_en.md#b62c18c1b4fc6d5b52ca826b36cf0819
 
+24. Pentest tooling recommended by itm4n - https://github.com/itm4n/Pentest-Tools
+
 
 Articles -
  (https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/)
